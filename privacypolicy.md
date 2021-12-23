@@ -42,9 +42,13 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ### User Permissions
 Camera Permission
+
 Gallary Permission
+
 Internet Permission
+
 Phone Login Permission
+
 SMS Permission
 
 ### Contact Us  
